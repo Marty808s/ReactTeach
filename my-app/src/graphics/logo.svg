@@ -1,0 +1,19 @@
+<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { 
+      fill: #6699ff; 
+      font-size: 24px; 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+    .icon {
+      fill: #6699ff;
+    }
+  </style>
+  <rect width="200" height="50" fill="none"/>
+  <g>
+    <path class="icon" d="M20,15 C25,10 35,10 40,15 C45,20 35,30 40,35 C45,40 25,40 20,35 C15,30 25,20 20,15 Z"/>
+    <text x="60" y="35" class="title">Marty808s</text>
+  </g>
+</svg>
